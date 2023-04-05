@@ -88,8 +88,7 @@
 <br/>  
 
 
-## Github Stats  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakharyadav27&show_icons=true&locale=en&layout=compact" alt="prakharyadav27" /></p>  
+
 
 <br/>  
 
